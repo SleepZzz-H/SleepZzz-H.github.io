@@ -1,0 +1,3 @@
+# 禁用 GitHub Pages 的 Jekyll 处理：
+# 否则所有下划线开头的目录（_scenelayout/_lighting/_lightvolume/_draco/_temp）
+# 会被跳过导致网站加载器卡死。此文件必须存在且为空即可。
